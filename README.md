@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Danny.
 
-I am a software developer in 🇫🇮 Finland| Hive Helsinki & Kood/Sisu student.
+I am a software developer in 🇫🇮 Finland | Hive Helsinki & Kood/Sisu student.
 
 ---
 
@@ -32,7 +32,7 @@ I am a software developer in 🇫🇮 Finland| Hive Helsinki & Kood/Sisu student
 
 **ft_irc 🚧 (on going)**
 | irc server from scratch
-|**Tech:** sockets, poll
+| **Tech:** sockets, poll
 
 ### 🟦 Go
 
